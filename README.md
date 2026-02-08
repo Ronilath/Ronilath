@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Romain NOUAILLE
 
-**Master 272 - Economic & Financial Engineering Student @ Paris-Dauphine University - PSL** <br> *Focusing on Portfolio Management, Stochastic Calculus, and Financial Programming.*
+**Master 272 - Economic & Financial Engineering Student @Paris Dauphine University - PSL** <br> *Focusing on Portfolio Management, Stochastic Calculus, and Financial Programming.*
 
 ---
 
