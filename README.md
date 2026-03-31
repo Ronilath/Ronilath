@@ -34,7 +34,7 @@ Co-authored an automated solution for structured notes valuation, handling compl
 ---
 
 ## 📂 Resources
-* 📄 [**Download my Full Resume (PDF)**](https://github.com/Ronilath/Resume/raw/main/Romain_Nouaille_CV.pdf)
+* 📄 [**Download my Full Resume (PDF)**](https://github.com/Ronilath/Resume/raw/main/Resume_NOUAILLE_Romain.pdf)
 
 ## 📈 GitHub Activity
 <div align="center">
